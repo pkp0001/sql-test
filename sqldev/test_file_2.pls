@@ -1,0 +1,4 @@
+CREATE OR REPLACE PROCEDURE GIT_TEST_2 AS
+BEGIN
+  dbms_output.put_line('Testing GitHub');
+END PKP_GIT_TEST_2;
